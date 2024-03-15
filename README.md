@@ -18,5 +18,4 @@ Reach out to me easily through the Contact section, which includes a feature to 
 Responsive Design:
 The website is designed to be compatible with all mobile devices, providing a beautiful and user-friendly interface.
 
-!preview https://github.com/VadymMakohon/Professional-portfolio-website/assets/138728243/61dc1f50-6207-40a8-b4fd-dcad6820a95f
-
+![preview](https://github.com/VadymMakohon/Professional-portfolio-website/assets/138728243/c1cd248e-4330-4382-bfc6-ff9b838a9bae)
